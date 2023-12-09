@@ -2,4 +2,4 @@
 Repo for udacity azure devops learning
 
 
-[![Python application test](https://github.com/Lamvtse/learning-azure-devops/actions/workflows/makefile.yml/badge.svg)](https://github.com/Lamvtse/learning-azure-devops/actions/workflows/makefile.yml)
+[![Python Application CI](https://github.com/Lamvtse/learning-azure-devops/actions/workflows/main.yml/badge.svg)](https://github.com/Lamvtse/learning-azure-devops/actions/workflows/main.yml)
