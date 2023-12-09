@@ -1,4 +1,4 @@
-name: Makefile CI
+name: Python Application CI
 
 on:
   push:
